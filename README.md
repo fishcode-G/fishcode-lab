@@ -4,5 +4,5 @@
 </p>
 
 <p align="center"><b>Fishcode</b><br/>
-Strategic Red Teaming by G · BK · OC
+Authored by: G · BK · OC
 </p>

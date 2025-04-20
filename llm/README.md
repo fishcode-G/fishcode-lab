@@ -1,13 +1,12 @@
-# Fishcode LLM Bounty Lab
+# Fishcode LLM Bounty Lab / 피쉬코드 LLM 바운티 연구실
 
-**Language:** [English](#fishcode-llm-bounty-lab) | [한국어](#피쉬코드-llm-바운티-연구실)
+**Language:** [English](#fishcode-llm-bounty-lab--피쉬코드-llm-바운티-연구실) | [Korean](#%ED%94%BC%EC%89%AC%EC%BD%94%EB%93%9C-llm-%EB%B0%94%EC%9A%B4%ED%8B%B0-%EC%97%B0%EA%B5%AC%EC%8B%A4)
 
 ---
 
 ## Fishcode LLM Bounty Lab
 
-Welcome to the LLM Bounty Lab section of the Fishcode repository.
-
+Welcome to the LLM Bounty Lab section of the Fishcode repository.  
 This space is dedicated to the research, experimentation, and documentation of real-world LLM security vulnerabilities across public platforms. All activities here are strictly educational and aligned with responsible disclosure practices.
 
 ---
@@ -65,15 +64,14 @@ Fishcode does not support the misuse of AI or unauthorized system access. All fi
 
 ---
 
-Crafted with precision by:  
-**G · BK · OC**  
-*Team Fishcode – Strategic AI Red Teaming*
+Authored by: **G · BK · OC**  
+*Fishcode – Coordinated AI Exploit Research Unit*
 
 ---
 
 ## 피쉬코드 LLM 바운티 연구실
 
-**언어:** [English](#fishcode-llm-bounty-lab) | [한국어](#피쉬코드-llm-바운티-연구실)
+**언어:** [English](#fishcode-llm-bounty-lab--피쉬코드-llm-바운티-연구실) | [한국어](#%ED%94%BC%EC%89%AC%EC%BD%94%EB%93%9C-llm-%EB%B0%94%EC%9A%B4%ED%8B%B0-%EC%97%B0%EA%B5%AC%EC%8B%A4)
 
 ---
 
@@ -130,6 +128,6 @@ Crafted with precision by:
 
 ---
 
-정확하게 기록한 팀:  
-**G · BK · OC**  
-*전략형 AI 레드팀 피쉬코드*
+작성: **G · BK · OC**  
+*Fishcode – 전략형 AI 침투 연구팀*
+
